@@ -1,0 +1,49 @@
+Datenschutzerklärung für HausHelper (App)
+
+Die Stratek GbR mit Sitz in 85283 Wolnzach, Hopfenstraße 29e (nachfolgend "Wir" genannt) legt großen Wert auf den Schutz personenbezogener Daten und die Wahrung der Privatsphäre ihrer Nutzer. Im Folgenden möchten wir Sie darüber informieren, welche personenbezogenen Daten wir erheben, verarbeiten und nutzen, wenn Sie unsere App nutzen.
+
+Verantwortliche Stelle
+Verantwortlich für die Verarbeitung personenbezogener Daten im Rahmen der Nutzung unserer App ist die Stratek GbR. Sie erreichen uns unter folgender Adresse:
+
+Stratek GbR
+Hopfenstraße 29e,
+85283 Wolnzach
+
+Art, Umfang und Zweck der Datenverarbeitung
+a) Allgemein
+
+Wir erheben und verarbeiten personenbezogene Daten von Ihnen nur, soweit dies zur Bereitstellung der App und der von Ihnen gewünschten Leistungen erforderlich ist. Wenn Sie unsere App nutzen, werden folgende personenbezogene Daten von Ihnen verarbeitet:
+
+Name
+Vorname
+E-Mail-Adresse
+Passwörter
+Arbeitszeiten
+b) Firebase-Server
+
+Die von uns erhobenen personenbezogenen Daten werden auf einem in Frankfurt liegenden Firebase-Server verarbeitet. Firebase ist ein Cloud-basierter Dienst von Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (nachfolgend "Google" genannt). Google verarbeitet die Daten in unserem Auftrag und unterliegt den europäischen Datenschutzbestimmungen.
+
+c) Google Maps
+
+In unsere App ist Google Maps eingebunden, um Ihnen die Möglichkeit zu geben, eine Standortanzeige zu nutzen. Durch die Nutzung von Google Maps werden Informationen über Ihre Nutzung der App einschließlich Ihrer IP-Adresse an einen Server von Google in den USA übertragen und dort gespeichert. Wir haben auf die Verarbeitung durch Google keinen Einfluss.
+
+d) Kamerafunktion
+
+Wenn Sie die Kamerafunktion in der App nutzen, um Bilder aufzunehmen, werden diese Bilder auf Ihrem Gerät gespeichert und nicht an uns übertragen oder von uns verarbeitet. Bitte beachten Sie jedoch, dass aufgenommene Bilder personenbezogene Daten enthalten können, die Sie möglicherweise mit anderen teilen.
+
+
+Weitergabe von Daten
+Wir geben Ihre personenbezogenen Daten nur an Dritte weiter, wenn dies zur Erfüllung der von Ihnen gewünschten Leistungen oder zur Erfüllung gesetzlicher Verpflichtungen erforderlich ist.
+
+Datensicherheit
+Wir treffen geeignete technische und organisatorische Maßnahmen, um Ihre personenbezogenen Daten vor Verlust und unberechtigtem Zugriff zu schützen.
+
+Betroffenenrechte
+Sie haben das Recht, Auskunft über die von uns verarbeiteten personenbezogenen Daten zu erhalten sowie das Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten. Sie haben auch das Recht, Ihre Einwilligung jederzeit zu widerrufen, ohne dass die Rechtmäßigkeit der Verarbeitung aufgrund der Einwilligung bis zum Widerruf beeinträchtigt wird.
+
+Kontakt
+Wenn Sie Fragen zur Verarbeitung Ihrer personenbezogenen Daten haben oder Ihre Betroffenenrechte geltend machen möchten, können Sie uns unter folgender E-Mail-Adresse kontaktieren:
+
+datenschutz@stratek.de
+
+Stand: 11. Mai 2023
